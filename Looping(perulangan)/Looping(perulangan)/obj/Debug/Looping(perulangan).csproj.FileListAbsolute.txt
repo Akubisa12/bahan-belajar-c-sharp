@@ -1,0 +1,7 @@
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Looping(perulangan)\Looping(perulangan)\bin\Debug\Looping(perulangan).exe.config
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Looping(perulangan)\Looping(perulangan)\bin\Debug\Looping(perulangan).exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Looping(perulangan)\Looping(perulangan)\bin\Debug\Looping(perulangan).pdb
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Looping(perulangan)\Looping(perulangan)\obj\Debug\Looping(perulangan).csproj.CoreCompileInputs.cache
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Looping(perulangan)\Looping(perulangan)\obj\Debug\Looping(perulangan).exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Looping(perulangan)\Looping(perulangan)\obj\Debug\Looping(perulangan).pdb
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Looping(perulangan)\Looping(perulangan)\obj\Debug\Looping(perulangan).csproj.AssemblyReference.cache

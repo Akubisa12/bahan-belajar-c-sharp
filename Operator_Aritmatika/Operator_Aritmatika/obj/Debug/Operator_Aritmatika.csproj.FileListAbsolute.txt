@@ -1,0 +1,7 @@
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Operator_Aritmatika\Operator_Aritmatika\bin\Debug\Operator_Aritmatika.exe.config
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Operator_Aritmatika\Operator_Aritmatika\bin\Debug\Operator_Aritmatika.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Operator_Aritmatika\Operator_Aritmatika\bin\Debug\Operator_Aritmatika.pdb
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Operator_Aritmatika\Operator_Aritmatika\obj\Debug\Operator_Aritmatika.csproj.AssemblyReference.cache
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Operator_Aritmatika\Operator_Aritmatika\obj\Debug\Operator_Aritmatika.csproj.CoreCompileInputs.cache
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Operator_Aritmatika\Operator_Aritmatika\obj\Debug\Operator_Aritmatika.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Operator_Aritmatika\Operator_Aritmatika\obj\Debug\Operator_Aritmatika.pdb

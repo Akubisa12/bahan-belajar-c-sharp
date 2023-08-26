@@ -1,0 +1,7 @@
+C:\Users\023675\OneDrive\Desktop\Belajar c#\looping-foreach\looping-foreach\bin\Debug\looping-foreach.exe.config
+C:\Users\023675\OneDrive\Desktop\Belajar c#\looping-foreach\looping-foreach\bin\Debug\looping-foreach.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\looping-foreach\looping-foreach\bin\Debug\looping-foreach.pdb
+C:\Users\023675\OneDrive\Desktop\Belajar c#\looping-foreach\looping-foreach\obj\Debug\looping-foreach.csproj.AssemblyReference.cache
+C:\Users\023675\OneDrive\Desktop\Belajar c#\looping-foreach\looping-foreach\obj\Debug\looping-foreach.csproj.CoreCompileInputs.cache
+C:\Users\023675\OneDrive\Desktop\Belajar c#\looping-foreach\looping-foreach\obj\Debug\looping-foreach.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\looping-foreach\looping-foreach\obj\Debug\looping-foreach.pdb

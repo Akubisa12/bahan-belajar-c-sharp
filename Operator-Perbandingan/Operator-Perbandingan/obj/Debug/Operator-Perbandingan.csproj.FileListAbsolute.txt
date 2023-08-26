@@ -1,0 +1,7 @@
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Operator-Perbandingan\Operator-Perbandingan\bin\Debug\Operator-Perbandingan.exe.config
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Operator-Perbandingan\Operator-Perbandingan\bin\Debug\Operator-Perbandingan.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Operator-Perbandingan\Operator-Perbandingan\bin\Debug\Operator-Perbandingan.pdb
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Operator-Perbandingan\Operator-Perbandingan\obj\Debug\Operator-Perbandingan.csproj.CoreCompileInputs.cache
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Operator-Perbandingan\Operator-Perbandingan\obj\Debug\Operator-Perbandingan.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Operator-Perbandingan\Operator-Perbandingan\obj\Debug\Operator-Perbandingan.pdb
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Operator-Perbandingan\Operator-Perbandingan\obj\Debug\Operator-Perbandingan.csproj.AssemblyReference.cache

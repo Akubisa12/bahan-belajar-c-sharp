@@ -1,0 +1,6 @@
+C:\Users\023675\OneDrive\Desktop\Belajar c#\casting\casting\bin\Debug\casting.exe.config
+C:\Users\023675\OneDrive\Desktop\Belajar c#\casting\casting\bin\Debug\casting.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\casting\casting\bin\Debug\casting.pdb
+C:\Users\023675\OneDrive\Desktop\Belajar c#\casting\casting\obj\Debug\casting.csproj.CoreCompileInputs.cache
+C:\Users\023675\OneDrive\Desktop\Belajar c#\casting\casting\obj\Debug\casting.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\casting\casting\obj\Debug\casting.pdb

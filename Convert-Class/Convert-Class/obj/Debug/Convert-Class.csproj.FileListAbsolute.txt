@@ -1,0 +1,6 @@
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Convert-Class\Convert-Class\bin\Debug\Convert-Class.exe.config
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Convert-Class\Convert-Class\bin\Debug\Convert-Class.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Convert-Class\Convert-Class\bin\Debug\Convert-Class.pdb
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Convert-Class\Convert-Class\obj\Debug\Convert-Class.csproj.CoreCompileInputs.cache
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Convert-Class\Convert-Class\obj\Debug\Convert-Class.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Convert-Class\Convert-Class\obj\Debug\Convert-Class.pdb

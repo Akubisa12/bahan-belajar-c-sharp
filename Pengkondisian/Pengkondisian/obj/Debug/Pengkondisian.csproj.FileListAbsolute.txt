@@ -1,0 +1,7 @@
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Pengkondisian\Pengkondisian\bin\Debug\Pengkondisian.exe.config
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Pengkondisian\Pengkondisian\bin\Debug\Pengkondisian.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Pengkondisian\Pengkondisian\bin\Debug\Pengkondisian.pdb
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Pengkondisian\Pengkondisian\obj\Debug\Pengkondisian.csproj.CoreCompileInputs.cache
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Pengkondisian\Pengkondisian\obj\Debug\Pengkondisian.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Pengkondisian\Pengkondisian\obj\Debug\Pengkondisian.pdb
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Pengkondisian\Pengkondisian\obj\Debug\Pengkondisian.csproj.AssemblyReference.cache

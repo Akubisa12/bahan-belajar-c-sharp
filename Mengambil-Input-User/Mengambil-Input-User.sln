@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mengambil-Input-User", "Mengambil-Input-User\Mengambil-Input-User.csproj", "{FB570AFF-C67B-4D7F-9705-BF7556D5E41B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB570AFF-C67B-4D7F-9705-BF7556D5E41B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB570AFF-C67B-4D7F-9705-BF7556D5E41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB570AFF-C67B-4D7F-9705-BF7556D5E41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB570AFF-C67B-4D7F-9705-BF7556D5E41B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A4ED6FA-396A-412E-BE9F-467B6C5ADEC5}
+	EndGlobalSection
+EndGlobal

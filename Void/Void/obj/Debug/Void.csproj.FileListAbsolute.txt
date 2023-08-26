@@ -1,0 +1,7 @@
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Void\Void\bin\Debug\Void.exe.config
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Void\Void\bin\Debug\Void.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Void\Void\bin\Debug\Void.pdb
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Void\Void\obj\Debug\Void.csproj.AssemblyReference.cache
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Void\Void\obj\Debug\Void.csproj.CoreCompileInputs.cache
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Void\Void\obj\Debug\Void.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Void\Void\obj\Debug\Void.pdb

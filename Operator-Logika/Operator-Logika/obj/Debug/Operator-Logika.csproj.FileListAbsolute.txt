@@ -1,0 +1,7 @@
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Operator-Logika\Operator-Logika\bin\Debug\Operator-Logika.exe.config
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Operator-Logika\Operator-Logika\bin\Debug\Operator-Logika.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Operator-Logika\Operator-Logika\bin\Debug\Operator-Logika.pdb
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Operator-Logika\Operator-Logika\obj\Debug\Operator-Logika.csproj.CoreCompileInputs.cache
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Operator-Logika\Operator-Logika\obj\Debug\Operator-Logika.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Operator-Logika\Operator-Logika\obj\Debug\Operator-Logika.pdb
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Operator-Logika\Operator-Logika\obj\Debug\Operator-Logika.csproj.AssemblyReference.cache

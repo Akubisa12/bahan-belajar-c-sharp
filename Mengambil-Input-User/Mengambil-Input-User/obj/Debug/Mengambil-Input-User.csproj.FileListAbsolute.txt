@@ -1,0 +1,7 @@
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Mengambil-Input-User\Mengambil-Input-User\bin\Debug\Mengambil-Input-User.exe.config
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Mengambil-Input-User\Mengambil-Input-User\bin\Debug\Mengambil-Input-User.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Mengambil-Input-User\Mengambil-Input-User\bin\Debug\Mengambil-Input-User.pdb
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Mengambil-Input-User\Mengambil-Input-User\obj\Debug\Mengambil-Input-User.csproj.AssemblyReference.cache
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Mengambil-Input-User\Mengambil-Input-User\obj\Debug\Mengambil-Input-User.csproj.CoreCompileInputs.cache
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Mengambil-Input-User\Mengambil-Input-User\obj\Debug\Mengambil-Input-User.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Mengambil-Input-User\Mengambil-Input-User\obj\Debug\Mengambil-Input-User.pdb

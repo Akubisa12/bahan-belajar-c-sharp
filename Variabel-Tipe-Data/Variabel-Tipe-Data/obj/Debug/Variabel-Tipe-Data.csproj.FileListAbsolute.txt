@@ -1,0 +1,7 @@
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Variabel-Tipe-Data\Variabel-Tipe-Data\bin\Debug\Variabel-Tipe-Data.exe.config
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Variabel-Tipe-Data\Variabel-Tipe-Data\bin\Debug\Variabel-Tipe-Data.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Variabel-Tipe-Data\Variabel-Tipe-Data\bin\Debug\Variabel-Tipe-Data.pdb
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Variabel-Tipe-Data\Variabel-Tipe-Data\obj\Debug\Variabel-Tipe-Data.csproj.AssemblyReference.cache
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Variabel-Tipe-Data\Variabel-Tipe-Data\obj\Debug\Variabel-Tipe-Data.csproj.CoreCompileInputs.cache
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Variabel-Tipe-Data\Variabel-Tipe-Data\obj\Debug\Variabel-Tipe-Data.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Variabel-Tipe-Data\Variabel-Tipe-Data\obj\Debug\Variabel-Tipe-Data.pdb

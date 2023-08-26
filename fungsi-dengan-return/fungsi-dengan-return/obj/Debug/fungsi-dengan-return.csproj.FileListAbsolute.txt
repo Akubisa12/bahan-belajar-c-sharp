@@ -1,0 +1,7 @@
+C:\Users\023675\OneDrive\Desktop\Belajar c#\fungsi-dengan-return\fungsi-dengan-return\bin\Debug\fungsi-dengan-return.exe.config
+C:\Users\023675\OneDrive\Desktop\Belajar c#\fungsi-dengan-return\fungsi-dengan-return\bin\Debug\fungsi-dengan-return.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\fungsi-dengan-return\fungsi-dengan-return\bin\Debug\fungsi-dengan-return.pdb
+C:\Users\023675\OneDrive\Desktop\Belajar c#\fungsi-dengan-return\fungsi-dengan-return\obj\Debug\fungsi-dengan-return.csproj.CoreCompileInputs.cache
+C:\Users\023675\OneDrive\Desktop\Belajar c#\fungsi-dengan-return\fungsi-dengan-return\obj\Debug\fungsi-dengan-return.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\fungsi-dengan-return\fungsi-dengan-return\obj\Debug\fungsi-dengan-return.pdb
+C:\Users\023675\OneDrive\Desktop\Belajar c#\fungsi-dengan-return\fungsi-dengan-return\obj\Debug\fungsi-dengan-return.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Looping-While-Do-While\Looping-While-Do-While\bin\Debug\Looping-While-Do-While.exe.config
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Looping-While-Do-While\Looping-While-Do-While\bin\Debug\Looping-While-Do-While.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Looping-While-Do-While\Looping-While-Do-While\bin\Debug\Looping-While-Do-While.pdb
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Looping-While-Do-While\Looping-While-Do-While\obj\Debug\Looping-While-Do-While.csproj.AssemblyReference.cache
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Looping-While-Do-While\Looping-While-Do-While\obj\Debug\Looping-While-Do-While.csproj.CoreCompileInputs.cache
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Looping-While-Do-While\Looping-While-Do-While\obj\Debug\Looping-While-Do-While.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Looping-While-Do-While\Looping-While-Do-While\obj\Debug\Looping-While-Do-While.pdb

@@ -1,0 +1,7 @@
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Switch_Statement\Switch_Statement\bin\Debug\Switch_Statement.exe.config
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Switch_Statement\Switch_Statement\bin\Debug\Switch_Statement.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Switch_Statement\Switch_Statement\bin\Debug\Switch_Statement.pdb
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Switch_Statement\Switch_Statement\obj\Debug\Switch_Statement.csproj.CoreCompileInputs.cache
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Switch_Statement\Switch_Statement\obj\Debug\Switch_Statement.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Switch_Statement\Switch_Statement\obj\Debug\Switch_Statement.pdb
+C:\Users\023675\OneDrive\Desktop\Belajar c#\Switch_Statement\Switch_Statement\obj\Debug\Switch_Statement.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\023675\OneDrive\Desktop\Belajar c#\program_sederhana_for_array\program_sederhana_for_array\bin\Debug\program_sederhana_for_array.exe.config
+C:\Users\023675\OneDrive\Desktop\Belajar c#\program_sederhana_for_array\program_sederhana_for_array\bin\Debug\program_sederhana_for_array.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\program_sederhana_for_array\program_sederhana_for_array\bin\Debug\program_sederhana_for_array.pdb
+C:\Users\023675\OneDrive\Desktop\Belajar c#\program_sederhana_for_array\program_sederhana_for_array\obj\Debug\program_sederhana_for_array.csproj.AssemblyReference.cache
+C:\Users\023675\OneDrive\Desktop\Belajar c#\program_sederhana_for_array\program_sederhana_for_array\obj\Debug\program_sederhana_for_array.csproj.CoreCompileInputs.cache
+C:\Users\023675\OneDrive\Desktop\Belajar c#\program_sederhana_for_array\program_sederhana_for_array\obj\Debug\program_sederhana_for_array.exe
+C:\Users\023675\OneDrive\Desktop\Belajar c#\program_sederhana_for_array\program_sederhana_for_array\obj\Debug\program_sederhana_for_array.pdb
